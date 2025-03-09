@@ -54,7 +54,7 @@ Ensure you have the following installed on your system:
 
 ```
 Transcript-subtitle-Extractor/
-|── 
+|── Youtube transcript checker/
    │── transcript.py        # Main Flask application
    │── requirements.txt     # Python dependencies
 ```
