@@ -54,12 +54,9 @@ Ensure you have the following installed on your system:
 
 ```
 Transcript-subtitle-Extractor/
-│── app.py               # Main Flask application
-│── requirements.txt     # Python dependencies
-│── README.md            # Project documentation
-│── ABOUT.md             # About the project
-│── COLLABORATION.md     # Contribution guidelines
-│── LICENSE              # Open-source license
+|── 
+   │── transcript.py        # Main Flask application
+   │── requirements.txt     # Python dependencies
 ```
 
 ## License
