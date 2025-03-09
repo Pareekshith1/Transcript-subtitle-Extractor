@@ -29,8 +29,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Pareekshith1/Transcript-subtitle-Extractor.git
-   cd Transcript-subtitle-Extractor
+   git clone https://github.com/Pareekshith1/transcript-subtitle-Extractor.git
+   cd transcript-subtitle-Extractor
    ```
 2. **Install Dependencies:**
    ```sh
@@ -53,7 +53,7 @@ Ensure you have the following installed on your system:
 ## File Structure
 
 ```
-Transcript-subtitle-Extractor/
+transcript-subtitle-Extractor/
 |── Youtube transcript checker/
    │── transcript.py        # Main Flask application
    │── requirements.txt     # Python dependencies
