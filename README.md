@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Transcript Subtitle Extractalso **eight Flask-based web application that extracts subtitles or transcripts from YouTube videos using the `youtube-transcript-api`. Users can enter a YouTube video ID, and the application will retrieve the transcript and display it in an easy-to-read format.
+The Transcript Subtitle Extract is a Flask-based web application that extracts subtitles or transcripts from YouTube videos using the `youtube-transcript-api`. Users can enter a YouTube video ID, and the application will retrieve the transcript and display it in an easy-to-read format.
 
 ## Features
 
